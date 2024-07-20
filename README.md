@@ -2,6 +2,8 @@
 
 A simple video call app that connects two web clients in a video call via WebRTC
 
+![](sc.png)
+
 ## Features
 - Simple web client (HTML, CSS, JS)
 - Signaling server (Python/Flask) inside a Docker container
